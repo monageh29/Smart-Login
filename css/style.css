@@ -1,0 +1,21 @@
+.form-control {
+   color: white !important;
+}
+h1{
+   color: #17a2b8;
+   padding-bottom: 10px;
+}
+.navbar-brand{
+  font-size: 30px !important;
+}
+span{
+   color: red;
+   font-weight: bolder;
+}
+span:hover{
+   color: blue;
+}
+.gap-2{
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
